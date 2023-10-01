@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Vanilla",
+    "Description": "Customer, and Customer",
+    "Min cart price": "30$"
+  },
+
+  {
+    "FirstName": "Rasberry",
+    "Description": "Whatever you like",
+    "Min cart price": "10$"
+  },
+  {
+    "Name": "Hook",
+    "Description": "See food represents",
+      "Min cart price":  "20$"
+  }
+
+
+]
